@@ -4,6 +4,7 @@ email: shenyang.huang@mail.mcgill.ca
 description: >
   Documentation for the Temporal Graph Benchmark.
 lang: en-US
+encoding: utf-8
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
