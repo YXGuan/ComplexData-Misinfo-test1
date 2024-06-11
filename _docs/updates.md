@@ -2,6 +2,13 @@
 title: Version Update for TGB
 permalink: /docs/update/
 ---
+##### **Major Update: Please update your package to [2.0.0](https://pypi.org/project/py-tgb/)** (June 11th, 2024).
+- added four temporal knowledge graph datasets and four temporal heterogeneous graph datasets. 
+- provided leaderboard and examples for these datasets
+- the preprint for TGB 2.0 is available. 
+
+
+
 ##### **Please update your package to [0.9.2](https://pypi.org/project/py-tgb/)** (December 5th, 2023).
 - fix the time conversion error in `tgbl-flight`, now the edgelist directly contain the converted unix timestamps. 
 - if you have older download of this datasets, please remove `TGB/tgb/datasets/tgbl_flight` folder and do a clean redownload. 
