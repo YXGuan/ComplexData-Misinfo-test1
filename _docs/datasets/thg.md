@@ -10,6 +10,31 @@ g { color: rgb(27, 158, 119) }
 </style>
 
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p class="lead">
+                In TGB 2.0, we introduced novel temporal heterogeneous graph datasets, of <r>small</r>, <b>medium</b> and <g>large scales</g>. 
+            </p>
+            <p class="lead">
+                <b>Large in size:</b> THG datasets (marked in green) are significantly larger than existing datasets.<br/>
+            </p>
+            <p class="lead">
+                <b>Edge Relations:</b> For THG datasets, the edge relation information is also provided for each quadruple and the task is to predict the tail in a query.<br/>
+            </p>
+            <p class="lead">
+                <b>Node Types:</b> For all THG datasets, we also include the node type for each node in the graph. <br/>
+            </p>
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="{{ "/assets/img/thg_stats.png" | relative_url }}" class="img-responsive">
+        </div>
+    </div>
+</div>
+
+
+
+
 ##### The task is to predict properties of edges (pairs of nodes) at a future time.
 
 ### Summary

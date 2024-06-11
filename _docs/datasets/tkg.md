@@ -1,5 +1,5 @@
 ---
-title: Temporal Knowledge Graph Link Property Prediction
+title: TKG Link Property Prediction
 permalink: /docs/tkg/
 ---
 
@@ -9,6 +9,28 @@ b { color: Blue }
 g { color: rgb(27, 158, 119) }
 </style>
 
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p class="lead">
+                In TGB 2.0, we introduced four novel temporal knowledge graph datasets, of <r>small</r>, <b>medium</b> and <g>large scales</g>. 
+            </p>
+            <p class="lead">
+                <b>Large in size:</b> TKG datasets (marked in orange) are orders of magnitude larger than existing ones in terms of number of nodes, edges and timestamps.<br/>
+            </p>
+            <p class="lead">
+                <b>Edge Relations:</b> For TKG datasets, the edge relation information is also provided for each quadruple and the task is to predict both the head or tail in a query (achieved by including inverse relations where the head and tail of an existing relation is inverted). <br/>
+            </p>
+            <p class="lead">
+                <b>Static Relations:</b> For <r>tkgl-smallpedia</r> and <g>tkgl-wikidata</g>, we include additional static relation information which can be used to augment TKG methods. <br/>
+            </p>
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="{{ "/assets/img/tkg_stats.png" | relative_url }}" class="img-responsive">
+        </div>
+    </div>
+</div>
 
 ##### The task is to predict properties of edges (pairs of nodes) at a future time.
 
