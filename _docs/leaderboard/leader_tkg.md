@@ -80,7 +80,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 
 
 
-<a name="tkgl-wikidata/>
+<a name="tkgl-wikidata"/>
 -------
 
 ### Leaderboard for [tkgl-wikidata](../tkg/#tkgl-wikidata)
