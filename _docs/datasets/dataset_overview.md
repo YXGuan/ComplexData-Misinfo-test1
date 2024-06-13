@@ -4,7 +4,11 @@ permalink: /docs/dataset_overview/
 ---
 
 <!-- Benchmark datasets are broadly classified into three categories representing three key graph machine learning tasks.  -->
-
+<style>
+r { color: rgb(231, 41, 138) }
+b { color: Blue }
+g { color: rgb(27, 158, 119) }
+</style>
 
 <div class="container">
     <div class="row">
@@ -16,10 +20,13 @@ permalink: /docs/dataset_overview/
                 <b>Edge and Node-level tasks:</b> We include both the dynamic <a href="../linkprop/">link property prediction</a> task and the dynamic <a href="../nodeprop/">node property prediction</a> task<br/>
             </p>
             <p class="lead">
-                <b>Rich domains:</b> TGB datasets come from interaction networks, rating networks, trasanction networks, traffic networks, social networks and trade networks. <br/>
+                <b>TKGs and THGs:</b> We include the link property prediction task also for <a href="../tkg/">Temporal Knowledge Graphs</a> and <a href="../thg/">Temporal Heterogeneous Graphs</a>.<br/>
             </p>
             <p class="lead">
-                <b>Diverse in scale:</b> TGB datasets includes small (< 5 million edges), medium (< 25 million edges) and large (> 25 million edges)scale datasets <br/>
+                <b>Rich domains:</b> TGB datasets come from interaction networks, rating networks, trasanction networks, traffic networks, social networks, trade networks, political networks, knowledge networks and software networks. <br/>
+            </p>
+            <p class="lead">
+                <b>Diverse in scale:</b> TGB datasets includes <r>small</r>, <b>medium</b> and <g>large</g> scale datasets <br/>
             </p>
         </div>
         <div class="col-md-6 text-center">
