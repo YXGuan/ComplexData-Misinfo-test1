@@ -5,6 +5,8 @@ permalink: /docs/team/
 
 <!-- ### TGB Team -->
 
+### TGB Team
+
 The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>. 
 
 <table style="background-color:#FDFEFE; border:none;">
@@ -75,6 +77,94 @@ The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>.
     </td>
   </tr> 
 </table>
+
+
+### TGB 2.0 Team
+
+<table style="background-color:#FDFEFE; border:none;">
+  <tr>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/julia.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://juliagast.github.io/">Julia Gastinger</a></strong> <br/> Mila, Mannheim University, Université de Montréal,
+      </div>
+    </td>
+    <td style="text-center">
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/andy.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://www.cs.mcgill.ca/~shuang43/">Shenyang Huang</a></strong> <br/> Mila, McGill University
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/michael_galkin.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://migalkin.github.io/">Mikhail Galkin</a></strong> <br/> Intel AI Lab
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/erfan.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://erfanloghmani.github.io/">Erfan Loghmani</a></strong> <br/> University of Washington
+      </div>
+    </td>
+  </tr> 
+  <tr>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/ali.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://scholar.google.com/citations?user=GU1VHgMAAAAJ&hl=en">Ali Parviz</a></strong> <br/> Mila, New Jersey Institute of Technology
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/farimah.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://fpour.github.io/">Farimah Poursafaei</a></strong> <br/> Mila, McGill University
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/jacob.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://jacobdanovitch.me/">Jacob Danovitch</a></strong> <br/> Mila, McGill University
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/ema.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://emanuelerossi.co.uk/">Emanuele Rossi</a></strong> <br/> Imperial College London
+      </div>
+    </td>
+  </tr> 
+  <tr>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/Ioannis.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://web.njit.edu/~ikoutis/">Ioannis Koutis</a></strong> <br/> New Jersey Institute of Technology
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/Heiner.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/">Heiner Stuckenschmidt</a></strong> <br/> Mannheim University
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/reihaneh.png" | relative_url }}" class="img-responsive">
+      <strong><a href="http://www.reirab.com/">Reihaneh Rabbany</a></strong> <br/> Mila, McGill University, CIFAR AI Chair
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/guillaume.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://www-labs.iro.umontreal.ca/~grabus/">Guillaume Rabusseau</a></strong> <br/> Mila, Université de Montréal, CIFAR AI Chair
+      </div>
+    </td>
+  </tr> 
+</table>
+
+
+
+
 
 
 ### Acknowledgements
