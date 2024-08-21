@@ -1,15 +1,15 @@
 # Site settings
-title: Temporal Graph Benchmark
-email: shenyang.huang@mail.mcgill.ca
+title: Miss Info Testing
+email: guany27@mcmaster.ca
 description: >
   Documentation for the Temporal Graph Benchmark.
 lang: en-US
 encoding: utf-8
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
-git_address: https://github.com/ComplexData-MILA/tgb-website
-git_edit_address: ://github.com/ComplexData-MILA/tgb-website/blob/main
+# url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
+git_address: https://github.com/ComplexData-Misinfo-test1/tgb-website
+git_edit_address: ://github.com/ComplexData-Misinfo-test1/tgb-website/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
