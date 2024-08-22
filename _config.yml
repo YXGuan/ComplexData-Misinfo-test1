@@ -8,8 +8,8 @@ encoding: utf-8
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
-git_address: https://github.com/ComplexData-Misinfo-test1/tgb-website
-git_edit_address: ://github.com/ComplexData-Misinfo-test1/tgb-website/blob/main
+git_address: https://github.com/YXGuan/ComplexData-Misinfo-test1
+git_edit_address: ://github.com/YXGuan/ComplexData-Misinfo-test1/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
