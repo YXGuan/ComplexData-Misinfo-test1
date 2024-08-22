@@ -7,17 +7,17 @@ permalink: /docs/team/
 
 ### TGB Team
 
-The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>. 
+The Misinfo team can be reached at <@mail.mcgill.ca>. 
 
 <table style="background-color:#FDFEFE; border:none;">
   <tr>
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/andy.png" | relative_url }}" class="img-responsive">
-      <strong><a href="https://www.cs.mcgill.ca/~shuang43/">Shenyang Huang</a></strong> <br/> Mila, McGill University
+      <img src="{{ "/assets/img/portrait/kellin_profile_pic.jpg" | relative_url }}" class="img-responsive">
+      <strong><a href="https://www.cs.mcgill.ca/~shuang43/">Kellin Pelrine</a></strong> <br/> Mila, McGill University
       </div>
     </td>
-    <td style="text-center">
+    <!-- <td style="text-center">
     <div style="margin: 0 auto; width: 180px; text-align: center">
       <img src="{{ "/assets/img/portrait/farimah.png" | relative_url }}" class="img-responsive">
       <strong><a href="https://fpour.github.io/">Farimah Poursafaei</a></strong> <br/> Mila, McGill University
@@ -61,12 +61,12 @@ The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>.
       <strong><a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Michael Bronstein</a></strong> <br/> University of Oxford
       </div>
     </td>
-  </tr> 
+  </tr>  -->
   <tr>
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/guillaume.png" | relative_url }}" class="img-responsive">
-      <strong><a href="https://www-labs.iro.umontreal.ca/~grabus/">Guillaume Rabusseau</a></strong> <br/> Mila, Université de Montréal, CIFAR AI Chair
+      <img src="{{ "/assets/img/portrait/JFG.jpg" | relative_url }}" class="img-responsive">
+      <strong><a href="https://jf-godbout.github.io/"> Jean-François Godbout </a></strong> <br/> Mila, Université de Montréal
       </div>
     </td>
     <td>
@@ -78,7 +78,7 @@ The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>.
   </tr> 
 </table>
 
-
+<!-- 
 ### TGB 2.0 Team
 
 <table style="background-color:#FDFEFE; border:none;">
@@ -161,7 +161,7 @@ The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>.
     </td>
   </tr> 
 </table>
-
+ -->
 
 
 
@@ -169,7 +169,9 @@ The TGB team can be reached at <shenyang.huang@mail.mcgill.ca>.
 
 ### Acknowledgements
 
-##### We thank the [OGB team](https://ogb.stanford.edu/) for their support throughout this project and sharing their website code for the construction of TGB website.
+##### We thank ....
+
+<!-- the [OGB team](https://ogb.stanford.edu/) for their support throughout this project and sharing their website code for the construction of TGB website. -->
 
 
 <!-- 
