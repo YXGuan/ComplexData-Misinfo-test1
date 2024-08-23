@@ -1,11 +1,11 @@
 ---
-title: TGB Team
+title: MisInfo Team
 permalink: /docs/team/
 ---
 
-<!-- ### TGB Team -->
+<!-- ### MisInfo Team -->
 
-### TGB Team
+### MisInfo Team
 
 The Misinfo team can be reached at <@mail.mcgill.ca>. 
 
@@ -17,18 +17,20 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
       <strong><a href="https://www.cs.mcgill.ca/~shuang43/">Kellin Pelrine</a></strong> <br/> Mila, McGill University
       </div>
     </td>
-    <!-- <td style="text-center">
+    <td style="text-center">
     <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/farimah.png" | relative_url }}" class="img-responsive">
-      <strong><a href="https://fpour.github.io/">Farimah Poursafaei</a></strong> <br/> Mila, McGill University
+      <img src="{{ "/assets/img/portrait/.png" | relative_url }}" class="img-responsive">
+      <strong><a href="https://github.com/florence-laflamme">Florence Laflamme
+</a></strong> <br/> Mila, McGill University
       </div>
     </td>
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/jacob.png" | relative_url }}" class="img-responsive">
-      <strong><a href="https://jacobdanovitch.me/">Jacob Danovitch</a></strong> <br/> Mila, McGill University
+      <img src="{{ "/assets/img/portrait/jacob.jpeg" | relative_url }}" class="img-responsive">
+      <strong><a href="https://mila.quebec/en/directory/jacob-junqi-tian">Jacob-Junqi Tian</a></strong> <br/> McGill University
       </div>
     </td>
+    <!--
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
       <img src="{{ "/assets/img/portrait/matthias.png" | relative_url }}" class="img-responsive">
