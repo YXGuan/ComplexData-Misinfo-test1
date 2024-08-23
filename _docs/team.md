@@ -14,7 +14,7 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
       <img src="{{ "/assets/img/portrait/kellin_profile_pic.jpg" | relative_url }}" class="img-responsive">
-      <strong><a href="https://www.cs.mcgill.ca/~shuang43/">Kellin Pelrine</a></strong> <br/> Mila, McGill University
+      <strong><a href="https://kellinpelrine.github.io/">Kellin Pelrine</a></strong> <br/> Mila, McGill University
       </div>
     </td>
     <td style="text-center">
