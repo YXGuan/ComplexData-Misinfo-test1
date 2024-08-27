@@ -13,6 +13,12 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
   <tr>
     <td>
     <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/Thibault_Camille-225x225.jpg" | relative_url }}" class="img-responsive">
+      <strong><a href="https://scholar.google.com/citations?user=r0mfGz0AAAAJ&hl=fr&oi=ao">Camille Thibault </a></strong> <br/> Université de Montréal
+      </div>
+    </td>
+    <td>
+    <div style="margin: 0 auto; width: 180px; text-align: center">
       <img src="{{ "/assets/img/portrait/kellin_profile_pic.jpg" | relative_url }}" class="img-responsive">
       <strong><a href="https://kellinpelrine.github.io/">Kellin Pelrine</a></strong> <br/> Mila, McGill University
       </div>
