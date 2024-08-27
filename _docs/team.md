@@ -19,7 +19,7 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
     </td>
     <td>
       <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/Gabrielle_Péloquin-Skulski21Deng500x500.jpg" | relative_url }}" class="img-responsive">
+      <img src="{{ "/assets/img/portrait/Gabrielle.jpg" | relative_url }}" class="img-responsive">
       <strong><a href="https://polisci.mit.edu/people/gabrielle-peloquin-skulski">Gabrielle Péloquin-Skulski </a></strong> <br/> MIT
       </div>
     </td>

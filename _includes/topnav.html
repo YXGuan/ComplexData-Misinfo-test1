@@ -36,28 +36,6 @@
                             <!-- <li><a href="{{ "/docs/lsc/" | relative_url }}">Large-Scale Challenge</a></li> -->
                         </ul>
                     </li>
-                    <li {% if page.sectionid=='Leaderboard' %} class="dropdown" {% endif %}><a class="dropdown-toggle"
-                            data-toggle="dropdown" href="#">
-                            Leaderboards <span class="caret"></span>
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li class="divider"></li>
-                            <li><a href="{{ "/docs/leader_linkprop/" | relative_url }}">Dynamic Link Property Prediction</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li><a href="{{ "/docs/leader_nodeprop/" | relative_url }}">Dynamic Node Property Prediction</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li><a href="{{ "/docs/leader_tkg/" | relative_url }}">Temporal Knowledge Graph</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li><a href="{{ "/docs/leader_thg/" | relative_url }}">Temporal Heterogeneous Graph</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li><a href="{{ "/docs/leader_rules/" | relative_url }}">Rules</a></li>
-                            </li>
-                        </ul>
-                    </li>
                             <!-- <li><a href="{{ "/docs/leader_overview/" | relative_url }}">Overview</a></li>
                             <li class="divider"></li>
                             <li><a href="{{ "/docs/leader_rules/" | relative_url }}">Rules</a></li>
@@ -78,8 +56,6 @@
                             href="{{ site.paper_address }}">Paper</a></li> {% endcomment %}
                     <li {% if page.sectionid=='Team' %} class="active" {% endif %}><a href="{{ "/docs/team/" |
                             relative_url }}">Team</a></li>
-                    <li {% if page.sectionid=='Updates' %} class="active" {% endif %}><a href="{{ "/docs/update/" |
-                                relative_url }}">Updates</a></li>
                     <ul class="nav navbar-nav">
                         <li><a href="https://github.com/ComplexData-MILA/misinfo-datasets"><i class="fa fa-github" aria-hidden="true"></i></a></li>
                     </ul>
