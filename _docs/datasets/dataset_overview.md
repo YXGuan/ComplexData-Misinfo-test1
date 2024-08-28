@@ -1,5 +1,5 @@
 ---
-title: TGB Dataset Overview
+title: Misinfo Dataset Overview
 permalink: /docs/dataset_overview/
 ---
 
@@ -9,6 +9,13 @@ r { color: rgb(231, 41, 138) }
 b { color: Blue }
 g { color: rgb(27, 158, 119) }
 </style>
+
+<iframe
+  src="https://huggingface.co/datasets/ComplexDataLab/Misinfo_Dataset/embed/viewer/default/train"
+  frameborder="0"
+  width="100%"
+  height="560px"
+></iframe>
 
 <div class="container">
     <div class="row">
