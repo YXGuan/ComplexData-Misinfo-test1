@@ -14,7 +14,7 @@ g { color: rgb(27, 158, 119) }
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-12">
             <iframe
             src="https://huggingface.co/datasets/ComplexDataLab/Misinfo_Dataset/embed/viewer/default/train"
             frameborder="0"
