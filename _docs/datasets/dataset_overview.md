@@ -32,6 +32,7 @@ g { color: rgb(27, 158, 119) }
 #### **Dataset splits** 
 <p class="lead">
 <font size="5">
+TODO: Need to be confirmed
 All datasets are split chronologically into the train, validation and test set with 70%, 15% and 15% of the edges respectively </font>
 </p>
 
@@ -39,7 +40,7 @@ All datasets are split chronologically into the train, validation and test set w
 #### **Exploring datasets** 
 <p class="lead">
 <font size="5">
-You can plot temporal graph statistics or visualizations in our companion Python package: <a href="https://complexdata-mila.github.io/TGX/">TGX</a>. TGX is a Python library designed to analyze and visualize temporal graphs. All TGB datasets are directly supported in TGX, see our <a href="https://complexdata-mila.github.io/TGX/tutorials/data_viz_stats/">example tutorial here</a>.
+You can access the dataset through <a href="https://complexdata-mila.github.io/TGX/">Hugging Face</a>.
 </font>
 </p>
 
