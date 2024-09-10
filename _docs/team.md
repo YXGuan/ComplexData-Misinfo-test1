@@ -59,4 +59,3 @@ permalink: /docs/team/
       </div>
     </td>
   </tr> 
-</table>
