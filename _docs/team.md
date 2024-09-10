@@ -36,6 +36,12 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
       </a></strong> <br/> Mila, McGill University
       </div>
     </td>
+    <td style="text-center">
+    <div style="margin: 0 auto; width: 180px; text-align: center">
+      <img src="{{ "/assets/img/portrait/yx.jpg" | relative_url }}" class="img-responsive">
+      <strong><a href="https://www.linkedin.com/in/luke-guan/">Luke Yuxiang Guan</a></strong> <br/> McMaster University
+      </div>
+    </td>
 
   <tr>
     <td>
@@ -58,11 +64,3 @@ The Misinfo team can be reached at <@mail.mcgill.ca>.
     </td>
   </tr> 
 </table>
-
-
-
-
-
-### Acknowledgements
-
-##### We thank ....
