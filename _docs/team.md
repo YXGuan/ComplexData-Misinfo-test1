@@ -5,10 +5,6 @@ permalink: /docs/team/
 
 <!-- ### MisInfo Team -->
 
-### MisInfo Team
-
-The Misinfo team can be reached at <@mail.mcgill.ca>. 
-
 <table style="background-color:#FDFEFE; border:none;">
   <tr>
     <td>
