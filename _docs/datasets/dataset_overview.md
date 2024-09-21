@@ -27,17 +27,7 @@ g { color: rgb(27, 158, 119) }
 ----
 
 
-
-
-#### **Dataset splits** 
-<p class="lead">
-<font size="5">
-TODO: Need to be confirmed
-All datasets are split chronologically into the train, validation and test set with 70%, 15% and 15% of the edges respectively </font>
-</p>
-
-
-#### **Exploring datasets** 
+#### **Exploring the dataset** 
 <p class="lead">
 <font size="5">
 You can access the dataset through <a href="https://complexdata-mila.github.io/TGX/">Hugging Face</a>.
@@ -47,7 +37,7 @@ You can access the dataset through <a href="https://complexdata-mila.github.io/T
 
 #### **Contributing datasets**
 <p class="lead">
-<font size="5">We welcome community feedback and contributions, if you would like to contribute a datasets or raise an issue, please reach out <a href="@mail.mcgill.ca">by email</a>. </font>
+<font size="5">We welcome community feedback and contributions, if you would like to contribute a datasets or raise an issue, please reach out <a href="camille.thibault.6@umontreal.ca">by email</a>. </font>
 </p>
 
 
