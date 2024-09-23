@@ -30,7 +30,7 @@ g { color: rgb(27, 158, 119) }
 #### **Exploring the dataset** 
 <p class="lead">
 <font size="5">
-You can access the dataset through <a href="https://complexdata-mila.github.io/TGX/">Hugging Face</a>.
+You can access the dataset through <a href="https://huggingface.co/datasets/ComplexDataLab/Misinfo_Dataset">Hugging Face</a>.
 </font>
 </p>
 
