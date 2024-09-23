@@ -35,10 +35,4 @@ You can access the dataset through <a href="https://complexdata-mila.github.io/T
 </p>
 
 
-#### **Contributing datasets**
-<p class="lead">
-<font size="5">We welcome community feedback and contributions, if you would like to contribute a datasets or raise an issue, please reach out <a href="camille.thibault.6@umontreal.ca">by email</a>. </font>
-</p>
-
-
 
