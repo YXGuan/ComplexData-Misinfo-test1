@@ -27,7 +27,7 @@ permalink: /docs/team/
     </td>
     <td style="text-center">
     <div style="margin: 0 auto; width: 180px; text-align: center">
-      <img src="{{ "/assets/img/portrait/.png" | relative_url }}" class="img-responsive">
+      <img src="{{ "/assets/img/portrait/photo_florence_720.jpg" | relative_url }}" class="img-responsive">
       <strong><a href="https://github.com/florence-laflamme">Florence Laflamme
       </a></strong> <br/> Mila, McGill University
       </div>
